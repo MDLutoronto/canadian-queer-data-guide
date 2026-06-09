@@ -1,58 +1,54 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
+title: Canadian Queer Data Guide
 layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
+description:  "This guide compiles data sources about Canadian 2SLGBTQIA+ populations."
 permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+created_date:  2024-12-12
 staff:  # Optional: Nested list of staff members associated with the page.
-  - name: Staff One  # PLACEHOLDER: Replace with actual staff member's name.
-    link: https://library.utoronto.ca/staff/staff-one  # link is optional
+    - name: Christina Cutler
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
+    - name: Jasmine Lefresne
+      link: https://library.utoronto.ca/staff/jasmine-lefresne
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 maintainer:
-  - name: Maintainer Name  # PLACEHOLDER: Replace with actual maintainer's name.
-    link: https://example.com/maintainer  # link is optional
-# student_staff:  
-# - name: Student Name
-#   link: https://example.com/student-name
-# - name: Another Student
-#   link: https://example.com/another-student  # link is optional
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 ---
-
+# Canadian Queer Data Guide
 *Last updated: March 2026*
 
 *This guide was compiled by Christina Cutler, Nick Field, Jasmine Lefresne, and Cole White, all from the Map and Data Library, University of Toronto.*
 
-|  |  |
-| --- | --- |
-|  | *The Canadian Queer Data Guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License* |
+| <img src="https://mdl.library.utoronto.ca/sites/default/public/inline-images/cc.png" data-entity-uuid="9e8c1f14-0a06-485a-ade5-76505c23a051" data-entity-type="file" alt="" width="164" height="57"> | *The Canadian Queer Data Guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License* |
 
-**Table of Contents**  
-[Introduction](#introduction "#introduction")  
-[Statistics Canada National Data](#statcan_national "#statcan_national")  
-[Other Data Sources](#other_data "#other_data")  
-  [International](#other_intl "#other_intl")  
-  [National](#other_national "#other_national")  
-  [Provincial & Territorial](#other_prov "#other_prov")  
-[Reports](#reports "#reports")  
-  [National](#reports_national "#reports_national")  
-  [British Columbia](#reports_bc "#reports_bc")  
-  [Quebec](#reports_pq "#reports_pq")  
-[Other Resources](#other_resources "#other_resources")  
-  [Books](#other_resources_books "#other_resources_books")  
-  [Online Resources](#other_resources_online "#other_resources_online")  
-  [Projects](#other_resources_projects "#other_resources_projects")
+## Table of Contents
+[Introduction](#introduction)  
+[Statistics Canada National Data](#statistics-canada)  
+[Other Data Sources](#other-data-sources)  
+  [International](#international)  
+  [National](#national)  
+  [Provincial & Territorial](#provincial-and-territorial)  
+[Reports](#reports)  
+  [National](#national-1)  
+  [British Columbia](#british-columbia)  
+  [Quebec](#quebec-1)  
+[Other Resources](#other-resources)  
+  [Books](#books)  
+  [Online Resources](#online-resources)  
+  [Projects](#online-resources)
 
 Introduction
 ------------
 
-This guide compiles data sources about Canadian 2SLGBTQIA+ populations, broadly defined. In some ways, Canada is a leader in creating data about queer populations. For instance, in 2021, Canada became the first nation to collect statistics on people who identify as being other than male or female, such as Two Spirit, non-binary, and genderqueer identities.1 There are few easily accessible resources bringing together existing resources,2 which is a niche this guide aims to fill. However, many gaps exist in the available data. For example, there is a total lack of data on intersex people and people with asexual and aromantic identities. For these reasons, we compiled this guide as both a starting point for researchers seeking a list of high-quality data on queer Canadians, and as a demonstration of the many gaps still present, which we call on statistical agencies, non-profit organisations, and researchers to fill.
+This guide compiles data sources about Canadian 2SLGBTQIA+ populations, broadly defined. In some ways, Canada is a leader in creating data about queer populations. For instance, in 2021, Canada became the first nation to collect statistics on people who identify as being other than male or female, such as Two Spirit, non-binary, and genderqueer identities.<sup><a href="#note-1" id="ref-1">[1]</a></sup> There are few easily accessible resources bringing together existing resources,<sup><a href="#note-2" id="ref-2">[2]</a></sup> which is a niche this guide aims to fill. However, many gaps exist in the available data. For example, there is a total lack of data on intersex people and people with asexual and aromantic identities. For these reasons, we compiled this guide as both a starting point for researchers seeking a list of high-quality data on queer Canadians, and as a demonstration of the many gaps still present, which we call on statistical agencies, non-profit organisations, and researchers to fill.
 
-This guide includes data on both queer sexual orientations (including, but not limited to, bisexual, lesbian, gay, pansexual, same-sex attraction, men who have sex with men, etc.) and Two-Spirit, trans, and gender diverse identities (e.g., non-binary, genderqueer, etc.).3 Our definitions of “Queer” and 2SLGBTQIA+ are capacious; our aim was to collect and present as much relevant information as possible, since different researchers will have different data needs, and different definitions of what constitutes “queer.” We recognise that these terms have changed in use and connotation, sometimes drastically, over the last hundred years, and we seek to gather resources rather than proscribe language. We also recognise that these terms are not always fully accepted by the groups in question and may be offensive, particularly in older resources, and that most datasets below do not address all, or even many, of the identities listed above.
+This guide includes data on both queer sexual orientations (including, but not limited to, bisexual, lesbian, gay, pansexual, same-sex attraction, men who have sex with men, etc.) and Two-Spirit, trans, and gender diverse identities (e.g., non-binary, genderqueer, etc.).<sup><a href="#note-3" id="ref-3">[3]</a></sup> Our definitions of “Queer” and 2SLGBTQIA+ are capacious; our aim was to collect and present as much relevant information as possible, since different researchers will have different data needs, and different definitions of what constitutes “queer.” We recognise that these terms have changed in use and connotation, sometimes drastically, over the last hundred years, and we seek to gather resources rather than proscribe language. We also recognise that these terms are not always fully accepted by the groups in question and may be offensive, particularly in older resources, and that most datasets below do not address all, or even many, of the identities listed above.
 
 ### Scope
 
-As mentioned above, we take a broad view of queer identities, including any data related to diverse gender identities and sexual orientations. Geographically, datasets below include Canada, any province, territory, municipality, or other group within it. We also included a small number of international datasets that included Canadian data. In terms of format, we included both aggregate **statistics** as well as **microdata** (data with one entry per individual, household, or another observation) that included at least one question about queer identity.4
+As mentioned above, we take a broad view of queer identities, including any data related to diverse gender identities and sexual orientations. Geographically, datasets below include Canada, any province, territory, municipality, or other group within it. We also included a small number of international datasets that included Canadian data. In terms of format, we included both aggregate **statistics** as well as **microdata** (data with one entry per individual, household, or another observation) that included at least one question about queer identity.<sup><a href="#note-4" id="ref-4">[4]</a></sup>
 
 In cases where a single site or research project offered many datasets, we link once to that site rather than detailing each dataset, especially since such a list would likely soon be out of date. We additionally omitted research papers where the underlying data was unavailable due to its sensitive nature.
 
@@ -60,19 +56,56 @@ We hope that this guide will benefit all researchers interested in Canadian Quee
 
 ### Format
 
-Many of the resources below are spreadsheets, in a variety of formats (CSV, XLSX, or data that can be exported from a dashboard). You can open IVT files in [Beyond 20/20](https://www.statcan.gc.ca/en/public/beyond20-20 "https://www.statcan.gc.ca/en/public/beyond20-20") (Windows only). In some cases, we also include tables of data in PDFs – please note that there are free tools that can extract tables from some PDFs, such as [Tabula](https://tabula.technology/ "https://tabula.technology/") and [Camelot](https://camelot-py.readthedocs.io/en/master/ "https://camelot-py.readthedocs.io/en/master/")/[Excalibur](https://github.com/camelot-dev/excalibur "https://github.com/camelot-dev/excalibur").5
+Many of the resources below are spreadsheets, in a variety of formats (CSV, XLSX, or data that can be exported from a dashboard). You can open IVT files in [Beyond 20/20](https://www.statcan.gc.ca/en/public/beyond20-20 "https://www.statcan.gc.ca/en/public/beyond20-20") (Windows only). In some cases, we also include tables of data in PDFs – please note that there are free tools that can extract tables from some PDFs, such as [Tabula](https://tabula.technology/ "https://tabula.technology/") and [Camelot](https://camelot-py.readthedocs.io "https://camelot-py.readthedocs.io")/[Excalibur](https://github.com/camelot-dev/excalibur "https://github.com/camelot-dev/excalibur").<sup><a href="#note-5" id="ref-5">[5]</a></sup>
 
 If you have suggestions for something we have missed, please [contact us](https://mdl.library.utoronto.ca/about/contact-form "https://mdl.library.utoronto.ca/about/contact-form").
 
 ### Notes
 
-1. [https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm](https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm "https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm")
-2. Here we note that Kevin Manuel, of Toronto Metropolitan University Libraries, has published an [LGBTQ+ Studies Research Guide](https://learn.library.torontomu.ca/lgbtq "https://learn.library.torontomu.ca/lgbtq") with a [subsection on LGBTQ+ Statistics and Data](https://learn.library.torontomu.ca/lgbtq/stats "https://learn.library.torontomu.ca/lgbtq/stats"). We also note that IASSIST's Representation in Data Interest Group, which includes Kevin Manuel, have long been working on an extensive international guide to LGBTQ+ statistics and data, to be added to their published [Representation in Data](https://iassistdata.org/community/representation-in-data-ig/ "https://iassistdata.org/community/representation-in-data-ig/") resources. We thank the Diversity, Equity, and Inclusion Data Resources Interest Group for their encouragement and their feedback on this guide.
-3. For guides to LGBTQ2S+ terms, see the [Toronto PFLAG glossary](https://www.torontopflag.org/lgbtq2s-terms-to-know "https://www.torontopflag.org/lgbtq2s-terms-to-know") and the even more detailed [PFLAG National glossary](https://pflag.org/glossary/ "https://pflag.org/glossary/").
-4. Our reasoning here was that since microdata allow you to run your own analyses, including microdata with at least one question on queer identity, broadly defined, allows users to look at questions of intersectionality.
-5. In general, these tools will work if you can drag your mouse cursor and highlight words and numbers. Both [Tabula](https://tabula.technology/ "https://tabula.technology/") and [Excalibur](https://github.com/camelot-dev/excalibur "https://github.com/camelot-dev/excalibur") are free point-and-click tools that can convert a table in a PDF into a spreadsheet. For programmers, [Camelot](https://camelot-py.readthedocs.io/en/master/ "https://camelot-py.readthedocs.io/en/master/") allows you to use the same tool as Excalibur but in Python.
+<p id="note-1">
+  <a href="#ref-1">[1]</a>
+  <a href="https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm" title="https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm">
+    https://www150.statcan.gc.ca/n1/daily-quotidien/220427/dq220427b-eng.htm
+  </a>
+</p>
 
----
+<p id="note-2">
+  <a href="#ref-2">[2]</a>
+  Here we note that Kevin Manuel, of Toronto Metropolitan University Libraries, has published an
+  <a href="https://learn.library.torontomu.ca/lgbtq" title="https://learn.library.torontomu.ca/lgbtq">LGBTQ+ Studies Research Guide</a>
+  with a
+  <a href="https://learn.library.torontomu.ca/lgbtq/stats" title="https://learn.library.torontomu.ca/lgbtq/stats">subsection on LGBTQ+ Statistics and Data</a>.
+  We also note that IASSIST's Representation in Data Interest Group, which includes Kevin Manuel, have long been working on an extensive international guide to LGBTQ+ statistics and data, to be added to their published
+  <a href="https://iassistdata.org/community/representation-in-data-ig/" title="https://iassistdata.org/community/representation-in-data-ig/">Representation in Data</a>
+  resources. We thank the Diversity, Equity, and Inclusion Data Resources Interest Group for their encouragement and their feedback on this guide.
+</p>
+
+<p id="note-3">
+  <a href="#ref-3">[3]</a>
+  For guides to LGBTQ2S+ terms, see the
+  <a href="https://www.torontopflag.org/terms-to-know" title="https://www.torontopflag.org/terms-to-know">Toronto PFLAG glossary</a>
+  and the even more detailed
+  <a href="https://pflag.org/glossary/" title="https://pflag.org/glossary/">PFLAG National glossary</a>.
+</p>
+
+<p id="note-4">
+  <a href="#ref-4">[4]</a>
+  Our reasoning here was that since microdata allow you to run your own analyses, including microdata with at least one question on queer identity, broadly defined, allows users to look at questions of intersectionality.
+</p>
+
+<p id="note-5">
+  <a href="#ref-5">[5]</a>
+  In general, these tools will work if you can drag your mouse cursor and highlight words and numbers. Both
+  <a href="https://tabula.technology/" title="https://tabula.technology/">Tabula</a>
+  and
+  <a href="https://github.com/camelot-dev/excalibur" title="https://github.com/camelot-dev/excalibur">Excalibur</a>
+  are free point-and-click tools that can convert a table in a PDF into a spreadsheet. For programmers,
+  <a href="https://camelot-py.readthedocs.io/en/master/" title="https://camelot-py.readthedocs.io/en/master/">Camelot</a>
+  allows you to use the same tool as Excalibur but in Python.
+</p>
+
+
+-----
 
 Statistics Canada
 =================
@@ -321,7 +354,7 @@ Data files include responses from all respondents as well as just the subset of 
 **Creator:** Yukon Government  
 **Year(s):** 2018, 2021  
 **Geography:** Yukon  
-**Restrictions on Use:** Public, see the [Open Government Licence - Yukon](https://cac-word-edit.officeapps.live.com/we/Open%20Government%20Licence%20-%20Yukon "https://cac-word-edit.officeapps.live.com/we/Open%20Government%20Licence%20-%20Yukon")  
+**Restrictions on Use:** Public, see the [Open Government Licence - Yukon](https://yukon.ca/en/your-government/open-government/open-government-licence-yukon "https://yukon.ca/en/your-government/open-government/open-government-licence-yukon")  
 **Definition of queer: "**LGBTQ2S+ (lesbian, gay, bisexual, trans, queer, Two-Spirit, plus)"  
 **File types:** CSV
 
@@ -367,7 +400,7 @@ British Columbia
 Quebec
 ------
 
-### [Fondation Émergence](https://en.fondationemergence.org/r%C3%A9sultats-des-sondages "https://en.fondationemergence.org/r%C3%A9sultats-des-sondages")
+### [Fondation Émergence](https://www.fondationemergence.org/en/ressources "https://www.fondationemergence.org/en/ressources")
 
 **Description:** Fondation Émergence is a non-profit organization that aims to "educate, inform and raise awareness about the lived experiences of people within a broad range of sexual orientations, gender identities and gender expressions". They conduct Canada-wide surveys about the perception and well-being of the LGBTQ+ community. The results of these surveys are published in an annual report. Topics covered include discrimination, public attitudes and perceptions, health, employment and work environment, family, youth, seniors, allies, and sports.  
 **Creator:** Fondation Émergence  
@@ -383,7 +416,7 @@ Other Resources
 Books
 -----
 
-* [**LGBTQ stats : lesbian, gay, bisexual, transgender, and queer people by the numbers**](https://librarysearch.library.utoronto.ca/discovery/fulldisplay?docid=alma991106014138206196&context=L&vid=01UTORONTO_INST:UTORONTO&lang=en&adaptor=Local%20Search%20Engine "https://librarysearch.library.utoronto.ca/discovery/fulldisplay?docid=alma991106014138206196&context=L&vid=01UTORONTO_INST:UTORONTO&lang=en&adaptor=Local%20Search%20Engine")["LGBTQ stats : lesbian, gay, bisexual, transgender, and queer people by the numbers"](https://thenewpress.org/books/lgbtq-stats/ "https://thenewpress.org/books/lgbtq-stats/") by David Deschamps
+* ["LGBTQ stats : lesbian, gay, bisexual, transgender, and queer people by the numbers"](https://thenewpress.org/books/lgbtq-stats/ "https://thenewpress.org/books/lgbtq-stats/") by David Deschamps
 * ["Other, please specify : queer methods in sociology"](https://www.ucpress.edu/books/other-please-specify/paper "https://www.ucpress.edu/books/other-please-specify/paper") by Compton, Meadow, and Schilt (eds.)
 * ["Queer Data Studies"](https://uwapress.uw.edu/book/9780295751979/queer-data-studies/ "https://uwapress.uw.edu/book/9780295751979/queer-data-studies/") by Patrick Keilty
 * ["Queer Data"](https://www.bloomsbury.com/ca/queer-data-9781350230729/ "https://www.bloomsbury.com/ca/queer-data-9781350230729/") by Kevin Guyan
@@ -395,7 +428,7 @@ Online Resources
 * [Canada’s Transgender and Non-Binary Population: Data Visualization Tool](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2022021-eng.htm "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2022021-eng.htm"), by Statistics Canada
 * [Critical Data, Geographic Information Systems (GIS), Maps and Artificial Intelligence (AI)- Equity Diversity and Inclusion (EDI) Bibliography](https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi "https://mdl.library.utoronto.ca/support/guides/critical-data-and-maps-equity-diversity-and-inclusion-edi"), by the Map & Data Library, University of Toronto Libraries
 * [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/ "https://www.digitaltransgenderarchive.net/")
-* [Diversity, Equity, and Inclusion Data Resources, IASSIST](https://iassistdata.org/community/diversity-equity-and-inclusion-data-resources/ "https://iassistdata.org/community/diversity-equity-and-inclusion-data-resources/")
+* [Diversity, Equity, and Inclusion Data Resources, IASSIST](https://iassistdata.org/community/representation-in-data-ig/ "https://iassistdata.org/community/representation-in-data-ig/")
 * [Gender, Diversity and Inclusion Statistics Hub](https://www.statcan.gc.ca/hub-carrefour/gdis-sgdi/index-eng.htm "https://www.statcan.gc.ca/hub-carrefour/gdis-sgdi/index-eng.htm")
 * [GLAAD Media Reference Guide – 11th Edition](https://glaad.org/reference "https://glaad.org/reference")
 * [LGBTData.com](http://www.lgbtdata.com/ "http://www.lgbtdata.com/") by Dr. Randall Sell
@@ -410,3 +443,5 @@ Projects
 * [Coming Out to Coming In: Reclaiming and Resurging Two-Spirit Voices through Indigenous-Led Research Project](https://www.fnha.ca/about/news-and-events/news/coming-out-to-coming-in-reclaiming-and-resurging-two-spirit-voices-through-indigenous-led-research-project "https://www.fnha.ca/about/news-and-events/news/coming-out-to-coming-in-reclaiming-and-resurging-two-spirit-voices-through-indigenous-led-research-project")
 * [MediaQueer](https://www.mediaqueer.ca/search "https://www.mediaqueer.ca/search")
 * [Two-Spirit Dry Lab](https://twospiritdrylab.ca/ "https://twospiritdrylab.ca/")
+
+**Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata), [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics)
