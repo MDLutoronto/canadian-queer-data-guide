@@ -6,6 +6,7 @@ permalink: /  # Optional: Custom URL for the page. It will serve as the slug. Fo
 created_date:  2024-12-12
 staff:  # Optional: Nested list of staff members associated with the page.
     - name: Christina Cutler
+      link: https://orcid.org/0000-0002-2647-0153
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
     - name: Jasmine Lefresne
@@ -21,7 +22,7 @@ maintainer:
 
 *This guide was compiled by Christina Cutler, Nick Field, Jasmine Lefresne, and Cole White, all from the Map and Data Library, University of Toronto.*
 
-| <img src="https://mdl.library.utoronto.ca/sites/default/public/inline-images/cc.png" data-entity-uuid="9e8c1f14-0a06-485a-ade5-76505c23a051" data-entity-type="file" alt="" width="164" height="57"> | *The Canadian Queer Data Guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License* |
+*The Canadian Queer Data Guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License* 
 
 ## Table of Contents
 [Introduction](#introduction)  
