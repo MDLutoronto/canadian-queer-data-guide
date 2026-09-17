@@ -18,7 +18,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/nick-field
 ---
 # Canadian Queer Data Guide
-*Last updated: March 2026*
+*Last updated: September 2026*
 
 *This guide was compiled by Christina Cutler, Nick Field, Jasmine Lefresne, and Cole White, all from the Map and Data Library, University of Toronto.*
 
@@ -435,6 +435,7 @@ Online Resources
 * [LGBTData.com](http://www.lgbtdata.com/ "http://www.lgbtdata.com/") by Dr. Randall Sell
 * [LGBTQ+ Studies Research Guide: Statistics & Data](https://learn.library.torontomu.ca/lgbtq/stats "https://learn.library.torontomu.ca/lgbtq/stats"), from Toronto Metropolitan University
 * [Mapping Trans Joy](https://www.mappingtransjoy.org/ "https://www.mappingtransjoy.org/"), by Sophie Ziegler, Nathalie Nia Faulk, and SK Groll
+* [Queering the Map](https://www.queeringthemap.com/)
 * Report: [Experiences of violent victimization and unwanted sexual behaviours among gay, lesbian, bisexual and other sexual minority people, and the transgender population, in Canada, 2018](https://www150.statcan.gc.ca/n1/pub/85-002-x/2020001/article/00009-eng.htm "https://www150.statcan.gc.ca/n1/pub/85-002-x/2020001/article/00009-eng.htm"), by Brianna Jaffray, Canadian Centre for Justice and Community Safety Statistics
 * ["What if LGBT+ census data doesn’t help – but hinders?"](https://www.independent.co.uk/voices/lgbt-census-data-ons-problem-b2257508.html "https://www.independent.co.uk/voices/lgbt-census-data-ons-problem-b2257508.html") by Kevin Guyan [paywall]
 
