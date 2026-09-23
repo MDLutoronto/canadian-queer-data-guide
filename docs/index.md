@@ -20,7 +20,11 @@ maintainer:
 # Canadian Queer Data Guide
 *Last updated: September 2026*
 
-*This guide was compiled by Christina Cutler, Nick Field, Jasmine Lefresne, and Cole White, all from the Map and Data Library, University of Toronto.*
+*This guide was compiled by the following people:*
+* *Christina Cutler (she/her), Librarian, Sunnybrook Hospital Library Services*
+* *Cole White (they/them), GIS Analyst, Map & Data Library, University of Toronto*
+* *Jasmine Lefresne (she/her), Data Librarian, Map & Data Library, University of Toronto*
+* *Nick Field (they/them), Data Support Specialist, Map & Data Library, University of Toronto*
 
 *The Canadian Queer Data Guide is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License* 
 
