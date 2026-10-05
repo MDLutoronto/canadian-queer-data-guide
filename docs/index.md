@@ -330,10 +330,10 @@ Ontario
 
 ### [The Geography of Sex](https://geographyofsex.ca/ "https://geographyofsex.ca/")
 
-**Description:** Qualitative study of sex lives of men who have sex with men in the Greater Toronto Area.
-**Creator:** Dalla Lana School of Public Health
-**Year(s):** 2016; ongoing
-**Geography:** Greater Toronto Area
+**Description:** Qualitative study of sex lives of men who have sex with men in the Greater Toronto Area.   
+**Creator:** Dalla Lana School of Public Health   
+**Year(s):** 2016; ongoing   
+**Geography:** Greater Toronto Area   
 **Definition of queer:** This project focuses on men who have sex with men (MSM)  
 **File types:** Data may be requested from the researchers 
 
