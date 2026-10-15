@@ -18,7 +18,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/nick-field
 ---
 # Canadian Queer Data Guide
-*Last updated: September 2026*
+*Last updated: October 2026*
 
 *This guide was compiled by the following people:*
 * *Christina Cutler (she/her), Librarian, Sunnybrook Hospital Library Services*
@@ -64,6 +64,10 @@ We hope that this guide will benefit all researchers interested in Canadian Quee
 Many of the resources below are spreadsheets, in a variety of formats (CSV, XLSX, or data that can be exported from a dashboard). You can open IVT files in [Beyond 20/20](https://www.statcan.gc.ca/en/public/beyond20-20 "https://www.statcan.gc.ca/en/public/beyond20-20") (Windows only). In some cases, we also include tables of data in PDFs – please note that there are free tools that can extract tables from some PDFs, such as [Tabula](https://tabula.technology/ "https://tabula.technology/") and [Camelot](https://camelot-py.readthedocs.io "https://camelot-py.readthedocs.io")/[Excalibur](https://github.com/camelot-dev/excalibur "https://github.com/camelot-dev/excalibur").<sup><a href="#note-5" id="ref-5">[5]</a></sup>
 
 If you have suggestions for something we have missed, please [contact us](https://library.utoronto.ca/contact-us/data-maps).
+
+### Webinar Recording
+
+In 2026, we partnered with [IFLA's LGBTQ+ Matters Section](https://www.ifla.org/units/lgbtq/) to deliver a [blog post](https://iflalgbtqusers.wordpress.com/2026/09/04/making-a-queer-data-guide-learnings-from-canada/) and a webinar on how we made the guide - [view the webinar](https://www.youtube.com/watch?v=DNcOPxtaUhM) here!
 
 ### Notes
 
