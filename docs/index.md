@@ -67,7 +67,7 @@ If you have suggestions for something we have missed, please [contact us](https:
 
 ### Webinar Recording
 
-In 2026, we partnered with [IFLA's LGBTQ+ Matters Section](https://www.ifla.org/units/lgbtq/) to deliver a [blog post](https://iflalgbtqusers.wordpress.com/2026/09/04/making-a-queer-data-guide-learnings-from-canada/) and a webinar on how we made the guide - [view the webinar](https://www.youtube.com/watch?v=DNcOPxtaUhM) here!
+In 2026, we partnered with [IFLA's LGBTQ+ Matters Section](https://www.ifla.org/units/lgbtq/) to deliver a [blog post](https://iflalgbtqusers.wordpress.com/2026/09/04/making-a-queer-data-guide-learnings-from-canada/) and a webinar on how we made the guide - [view the webinar](https://www.youtube.com/watch?v=DNcOPxtaUhM&t=76) here!
 
 ### Notes
 
